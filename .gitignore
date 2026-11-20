@@ -2,6 +2,11 @@
 /*
 !/.gitignore
 !/app.py
+!/capturar_hola.py
+!/entrenar_hola.py
+!/reconocer_hola.py
+!/requirements-captura.txt
+!/requirements-modelo.txt
 !/letra en movimiento.py
 !/Funciones/
 /Funciones/*

@@ -1,0 +1,8 @@
+# Versionar únicamente el código fuente actual y este archivo.
+/*
+!/.gitignore
+!/app.py
+!/letra en movimiento.py
+!/Funciones/
+/Funciones/*
+!/Funciones/*.py
